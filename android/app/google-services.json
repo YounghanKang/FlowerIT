@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "237040370145",
+    "firebase_url": "https://smartplant-7b16a-default-rtdb.firebaseio.com",
+    "project_id": "smartplant-7b16a",
+    "storage_bucket": "smartplant-7b16a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237040370145:android:0034efcc602c14275052a0",
+        "android_client_info": {
+          "package_name": "com.example.flowerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp74Ma-5L_ETyRW77ACc6hkGjyL27Gw08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237040370145:android:2246749d3e5fc9ab5052a0",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp74Ma-5L_ETyRW77ACc6hkGjyL27Gw08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
