@@ -1,16 +1,42 @@
-# flowerapp
+# 💐 flowerIT
 
-A new Flutter project.
+> 사진 한 장으로 간편하게 꽃 이름을 검색하고, 나만의 꽃 도감을 만들어보세요!
+>
+> `flowerIT`는 인공지능(AI)을 활용하여 카메라나 앨범 속 사진의 꽃이 무엇인지 알려주는 모바일 애플리케이션입니다.
 
-## Getting Started
+<br/>
 
-This project is a starting point for a Flutter application.
+## ✨ 주요 기능 (Features)
 
-A few resources to get you started if this is your first Flutter project:
+-   **📸 AI 카메라 인식:** 카메라로 꽃을 비추기만 해도 실시간으로 꽃 이름을 예측합니다.
+-   **🖼️ 앨범 사진 분석:** 휴대폰 앨범에 저장된 꽃 사진을 불러와 손쉽게 검색할 수 있습니다.
+-   **📖 상세 정보 제공:** 인식된 꽃의 학명, 꽃말, 특징 등 흥미로운 정보를 바로 확인할 수 있습니다.
+-   **📔 나만의 도감:** 내가 찾은 꽃들을 기록하고 수집하여 언제든지 다시 볼 수 있는 개인화된 도감 기능입니다.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ 기술 스택 (Tech Stack)
+
+* **Language:** Python, Dart
+* **Framework:** (사용하신 프레임워크가 있다면 여기에 적어주세요. 예: Flutter, FastAPI)
+* **AI/ML:** (사용하신 AI 모델이나 라이브러리가 있다면 적어주세요. 예: TensorFlow Lite)
+* **Database:** (사용하신 데이터베이스가 있다면 적어주세요. 예: SQLite, Firebase)
+
+<br/>
+
+## 📱 실행 화면 (Screenshots)
+
+<br/>
+
+## 🚀 앞으로의 개발 계획 (Future Works)
+
+-   [ ] 지도에 내가 찾은 꽃들의 위치를 기록하고 공유하는 기능
+-   [ ] 꽃과 관련된 명소나 축제 정보 제공
+-   [ ] 사용자 간의 꽃 사진을 공유하는 커뮤니티 기능
+-   [ ] 다크 모드(Dark Mode) 지원
+
+<br/>
+
+---
+
+**Project by YounghanKang** ([GitHub Profile](https://github.com/YounghanKang))
